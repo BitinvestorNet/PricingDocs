@@ -58,17 +58,17 @@ Minimum order amount is 7 EUR, 8 USD, or fiat currency equivalent.
 | dana                       | USD                                                                                                                              |
 | promptpay                  | USD                                                                                                                              |
 | pix                        | BRL                                                                                                                              |
-| apple-pay                  | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK |
+| apple-pay                  | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
 | ovo                        | USD                                                                                                                              |
 | kasikornbank               | USD                                                                                                                              |
-| google-pay                 | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK |
+| google-pay                 | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
 | spei                       | USD                                                                                                                              |
 | netbankingindia            | USD                                                                                                                              |
 | blik                       | PLN                                                                                                                              |
 | mobilepay                  | DKK, EUR                                                                                                                         |
 | airtm                      | USD                                                                                                                              |
 | upi                        | USD                                                                                                                              |
-| creditcard                 | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK |
+| creditcard                 | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
 | caixa                      | USD                                                                                                                              |
 | revolutpay                 | AED, AUD, BGN, CAD, CHF, CZK, DKK, EUR, GBP, HKD, HUF, ILS, ISK, JPY, MXN, NOK, NZD, PLN, RON, SEK, SGD, THB, TRY, USD, ZAR, JPY |
 | astropay                   | USD                                                                                                                              |
