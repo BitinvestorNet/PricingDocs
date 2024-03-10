@@ -51,49 +51,53 @@ Minimum order amount is 7 EUR, 8 USD, or fiat currency equivalent.
 ## Supported Payment Methods
 
 | Supported `payment_method` | Supported `fiat_currency`                                                                                                        |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| boleto                     | BRL                                                                                                                              |
-| ideal                      | EUR                                                                                                                              |
-| interac                    | CAD                                                                                                                              |
-| neosurf                    | EUR, DKK, GBP                                                                                                                    |
-| dana                       | USD                                                                                                                              |
-| promptpay                  | USD                                                                                                                              |
-| pix                        | BRL                                                                                                                              |
-| apple-pay                  | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
-| ovo                        | USD                                                                                                                              |
-| kasikornbank               | USD                                                                                                                              |
-| google-pay                 | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
-| spei                       | USD                                                                                                                              |
-| netbankingindia            | USD                                                                                                                              |
-| blik                       | PLN                                                                                                                              |
-| mobilepay                  | DKK, EUR                                                                                                                         |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | airtm                      | USD                                                                                                                              |
-| upi                        | USD                                                                                                                              |
-| creditcard                 | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
-| caixa                      | USD                                                                                                                              |
-| revolutpay                 | AED, AUD, BGN, CAD, CHF, CZK, DKK, EUR, GBP, HKD, HUF, ILS, ISK, JPY, MXN, NOK, NZD, PLN, RON, SEK, SGD, THB, TRY, USD, ZAR, JPY |
+| apple-pay                  | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
 | astropay                   | USD                                                                                                                              |
 | bank-transfer              | EUR, DKK, USD, GBP, CAD, SGD, HKD, CHF, TRY                                                                                      |
-| mercadopago                | USD                                                                                                                              |
+| blik                       | PLN                                                                                                                              |
+| boleto                     | BRL                                                                                                                              |
+| caixa                      | USD                                                                                                                              |
+| creditcard                 | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
+| dana                       | USD                                                                                                                              |
+| google-pay                 | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
+| ideal                      | EUR                                                                                                                              |
+| interac                    | CAD                                                                                                                              |
 | jeton                      | EUR, GBP, USD, CAD                                                                                                               |
-| tigerpay                   | JPY                                                                                                                              |
+| kasikornbank               | USD                                                                                                                              |
+| mercadopago                | USD                                                                                                                              |
+| mobilepay                  | DKK, EUR                                                                                                                         |
+| neosurf                    | EUR, DKK, GBP                                                                                                                    |
+| netbankingindia            | USD                                                                                                                              |
+| ovo                        | USD                                                                                                                              |
 | papara                     | TRY                                                                                                                              |
 | parazula                   | TRY                                                                                                                              |
 | payfix                     | TRY                                                                                                                              |
+| pix                        | BRL                                                                                                                              |
+| promptpay                  | USD                                                                                                                              |
+| revolutpay                 | AED, AUD, BGN, CAD, CHF, CZK, DKK, EUR, GBP, HKD, HUF, ILS, ISK, JPY, MXN, NOK, NZD, PLN, RON, SEK, SGD, THB, TRY, USD, ZAR, JPY |
+| spei                       | USD                                                                                                                              |
+| tigerpay                   | JPY                                                                                                                              |
+| upi                        | USD                                                                                                                              |
 
 ## Supported Fiat Currencies
 
 | Currency |  |  |
 | -------- | -------- | -------- |
-| CHF      | GBP      | RON      |
-| CAD      | USD      | ZAR      |
-| INR      | PLN      | UAH      |
-| BRL      | SEK      | TWD      |
-| HUF      | SGD      | MXN      |
-| EUR      | KZT      | IDR      |
-| HKD      | NZD      | AUD      |
-| THB      | CZK      | TRY      |
-| DKK      | JPY      |          |
+| AED      | INR      | SGD      |
+| AUD      | ILS      | THB      |
+| BGN      | ISK      | TWD      |
+| BRL      | JPY      | UAH      |
+| CAD      | KZT      | USD      |
+| CHF      | MXN      | ZAR      |
+| CZK      | NGN      |          |
+| DKK      | NOK      |          |
+| EUR      | NZD      |          |
+| GBP      | PLN      |          |
+| HKD      | RON      |          |
+| HUF      | TRY      |          |
+| IDR      | SEK      |          |
 
 ## Supported Crypto Currencies
 
