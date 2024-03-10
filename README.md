@@ -54,6 +54,7 @@ Minimum order amount is 7 EUR, 8 USD, or fiat currency equivalent.
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | boleto                     | BRL                                                                                                                              |
 | ideal                      | EUR                                                                                                                              |
+| interac                    | CAD                                                                                                                              |
 | neosurf                    | EUR, DKK, GBP                                                                                                                    |
 | dana                       | USD                                                                                                                              |
 | promptpay                  | USD                                                                                                                              |
@@ -72,7 +73,7 @@ Minimum order amount is 7 EUR, 8 USD, or fiat currency equivalent.
 | caixa                      | USD                                                                                                                              |
 | revolutpay                 | AED, AUD, BGN, CAD, CHF, CZK, DKK, EUR, GBP, HKD, HUF, ILS, ISK, JPY, MXN, NOK, NZD, PLN, RON, SEK, SGD, THB, TRY, USD, ZAR, JPY |
 | astropay                   | USD                                                                                                                              |
-| bank-transfer              | EUR, DKK, USD, GBP, CAD, SGD, HKD, CHF                                                                                           |
+| bank-transfer              | EUR, DKK, USD, GBP, CAD, SGD, HKD, CHF, TRY                                                                                      |
 | mercadopago                | USD                                                                                                                              |
 | jeton                      | EUR, GBP, USD, CAD                                                                                                               |
 | tigerpay                   | JPY                                                                                                                              |
