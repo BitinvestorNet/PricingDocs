@@ -42,11 +42,11 @@
 - `crypto_currency`: The selected cryptocurrency.
 - `crypto_amount`: If set, the calculation will be based on crypto amount instead of fiat amount.
 
-**NB.** Body should either contain `fiat_amount` or `crypto_amount`. If both are set, `crypto_amount` will overwrite `fiat_amount`.
+**NB.** Body should either contain either `fiat_amount` or `crypto_amount`. If both are set, `crypto_amount` will overwrite `fiat_amount`.
 
 ## Note
 
-Minimum order amount is 7 EUR, 8 USD, or fiat currency equivalent.
+Minimum order amount is 7 EUR, 8 USD, or other supported Fiat currency equivalent.
 
 ## Supported Payment Methods
 
@@ -126,7 +126,7 @@ Minimum order amount is 7 EUR, 8 USD, or fiat currency equivalent.
 - `crypto_currency`: The selected cryptocurrency.
 - `crypto_unit_price`: The price for 1 of the selected cryptocurrency (In selected fiat).
 - `network_fee`: The current network fee on the transaction (In selected fiat).
-- `fiat_amount_incl_fees`: The amount the user will end paying after fees (In selected fiat).
+- `fiat_amount_incl_fees`: The amount the user will end up paying after fees (In selected fiat).
 - `fiat_amount_excl_fees`: The amount you should parse to our payment window (In selected fiat).
 - `fiat_currency`: The selected fiat.
 
