@@ -57,6 +57,15 @@ Minimum order amount is 7 EUR, 8 USD, or other supported Fiat currency equivalen
 | astropay                   | USD                                                                                                                              |
 | bank-transfer              | EUR, DKK, USD, GBP, CAD, SGD, HKD, CHF, TRY                                                                                      |
 | blik                       | PLN                                                                                                                              |
+| paysafecard                | EUR                                                                                                                              |
+| skrill                     | EUR                                                                                                                              |
+| rapid-transfer             | EUR                                                                                                                              |
+| neteller                   | EUR                                                                                                                              |
+| giropay                    | EUR                                                                                                                              |
+| epay                       | EUR                                                                                                                              |
+| multibanco                 | EUR                                                                                                                              |
+| mbway                      | EUR                                                                                                                              |
+| rapid-transfer             | EUR                                                                                                                              |
 | boleto                     | BRL                                                                                                                              |
 | caixa                      | USD                                                                                                                              |
 | creditcard                 | EUR, DKK, USD, GBP, SEK, PLN, KZT, NGN, RON, ZAR, UAH, TWD, THB, CZK, TRY, CHF, INR, BRL, HUF, CAD, AUD, MXN, IDR, JPY, ILS, ISK, NZD, SGD, HKD, BGN |
