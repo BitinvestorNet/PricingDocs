@@ -115,7 +115,7 @@ Minimum order amount is 7 EUR, 8 USD, or other supported Fiat currency equivalen
 | BTC      | ETH | LTC |
 | BCH      | XRP | DAI |
 | DOGE     | LINK| USDT|
-| USDC     |     |     |
+| USDC     | TRX | SOL |
 
 ## Response
 
