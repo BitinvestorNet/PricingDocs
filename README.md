@@ -57,10 +57,10 @@ Minimum order amount is 7 EUR, 8 USD, or other supported Fiat currency equivalen
 | astropay                   | USD                                                                                                                              |
 | bank-transfer              | EUR, DKK, USD, GBP, CAD, SGD, HKD, CHF, TRY                                                                                      |
 | blik                       | PLN                                                                                                                              |
-| paysafecard                | EUR                                                                                                                              |
-| skrill                     | EUR                                                                                                                              |
-| rapid-transfer             | EUR                                                                                                                              |
-| neteller                   | EUR                                                                                                                              |
+| paysafecard                | EUR, GBP, DKK                                                                                                                    |
+| skrill                     | EUR, GBP, DKK                                                                                                                    |
+| rapid-transfer             | EUR, GBP, DKK                                                                                                                    |
+| neteller                   | EUR, GBP, DKK                                                                                                                    |
 | giropay                    | EUR                                                                                                                              |
 | epay                       | EUR                                                                                                                              |
 | multibanco                 | EUR                                                                                                                              |
