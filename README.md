@@ -1,7 +1,7 @@
-# Bitinvestor Pricing API
+# Swapped.com Pricing API
 
 ## Table of Contents
-- [Bitinvestor Pricing API](#bitinvestor-pricing-api)
+- [Swapped.com Pricing API](#swapped-pricing-api)
   - [Table of Contents](#table-of-contents)
   - [Version](#version)
   - [API Information](#api-information)
